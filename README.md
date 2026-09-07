@@ -1,6 +1,6 @@
 # Hi, I'm Hassan 👋
 
-Final-year AI & Data Science engineering student at EMSI, Morocco. I build data and ML systems end to end — from pipelines and models through to deployment and monitoring.
+Final-year AI & Data Science engineering student at **[EMSI](https://emsi.ma/)**, Morocco. I build data and ML systems end to end — from pipelines and models through to deployment and monitoring.
 
 I care about the parts that make systems actually work in production: correct validation, idempotent pipelines, calibrated models, and catching data problems before they ship.
 
