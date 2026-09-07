@@ -7,7 +7,9 @@ I care about the parts that make systems actually work in production: correct va
 ### What I work with
 
 **Data Engineering** — Airflow, dbt, PostgreSQL, ETL/ELT, CDC (Debezium)
+
 **Machine Learning** — Python, scikit-learn, LightGBM, pandas, feature engineering
+
 **MLOps** — Docker, Kubernetes, FastAPI, Terraform, CI/CD, Prometheus/Grafana
 
 ### Projects worth a look
