@@ -1,27 +1,26 @@
-# Hi, I'm Hassan 👋
+### Hassan Fasseh
 
-Final-year AI & Data Science engineering student at **[EMSI](https://emsi.ma/)**, Morocco. I build data and ML systems end to end — from pipelines and models through to deployment and monitoring.
+Final-year AI & Data Science engineering student in Morocco. I build production-minded
+data and ML systems, the pipelines, the models, and the MLOps plumbing that keeps them
+running, and I care most about the parts that decide whether a system survives contact
+with real data: correct validation, idempotent pipelines, calibrated models, and
+catching bad data before it ships.
 
-I care about the parts that make systems actually work in production: correct validation, idempotent pipelines, calibrated models, and catching data problems before they ship.
+**Languages & ML** — Python · SQL · scikit-learn · LightGBM · pandas
+**Data & Orchestration** — Airflow · dbt · PostgreSQL · Debezium
+**Infra & Serving** — Docker · Kubernetes · Terraform · FastAPI
 
-### What I work with
+---
 
-**Data Engineering** — Airflow, dbt, PostgreSQL, ETL/ELT, CDC (Debezium)
+### Selected work
 
-**Machine Learning** — Python, scikit-learn, LightGBM, pandas, feature engineering
+| Project | What it is |
+|---|---|
+| **[Credit-Risk-Decisioning](https://github.com/HassanFasseh/Credit-Risk-Decisioning)** | Credit-default decisioning on Home Credit: point-in-time features, walk-forward validation, calibrated probabilities, cost-based threshold. Served via FastAPI. |
+| **[Incremental-ELT-Warehouse](https://github.com/HassanFasseh/Incremental-ELT-Warehouse)** | Incremental OLTP→warehouse pipeline: watermark extraction, SCD Type 2, quality gates that halt on bad data, plus a Debezium CDC branch. Airflow + dbt. |
+| **[Vela-Mlops-Platform](https://github.com/HassanFasseh/Vela-Mlops-Platform)** | Self-hosted MLOps platform for regulated on-prem environments: deploy models via web UI, auto-build Docker, ship to Kubernetes, monitor latency and drift. |
+| **[Bully-Election-Simulator](https://github.com/HassanFasseh/Bully-Election-Simulator)** | Distributed-systems demo of the Bully leader-election algorithm: 5 Flask nodes, live re-election, React/D3 dashboard. |
 
-**MLOps** — Docker, Kubernetes, FastAPI, Terraform, CI/CD, Prometheus/Grafana
-
-### Projects worth a look
-
-**[Credit-Risk-Decisioning](https://github.com/HassanFasseh/Credit-Risk-Decisioning)** — Credit-default risk system on Home Credit: point-in-time features, walk-forward validation, calibrated probabilities, and a cost-based decision threshold. Served via FastAPI.
-
-**[Incremental-ELT-Warehouse](https://github.com/HassanFasseh/Incremental-ELT-Warehouse)** — Incremental OLTP-to-warehouse pipeline: watermark extraction, SCD Type 2 with point-in-time joins, quality gates that halt on bad data, and a Debezium CDC branch. Airflow + dbt.
-
-**[Vela-Mlops-Platform](https://github.com/HassanFasseh/Vela-Mlops-Platform)** — Self-hosted MLOps platform for regulated on-premise environments: deploy models via a web UI, auto-build Docker, ship to Kubernetes, monitor latency and drift.
-
-**[Bully-Election-Simulator](https://github.com/HassanFasseh/Bully-Election-Simulator)** — Interactive distributed-systems demo of the Bully leader-election algorithm: 5 Flask nodes, live re-election, React/D3 dashboard.
-
-### Reach me
+---
 
 [LinkedIn](https://linkedin.com/in/hassan-fasseh) · hassanfasseh@outlook.com
